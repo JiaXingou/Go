@@ -1,0 +1,6 @@
+Requirements:
+1. python3.7, pytorch==1.10
+
+Usage:
+1. python predict.py T0805 ./example/T0805_A.pdb
+
